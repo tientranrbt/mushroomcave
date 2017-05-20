@@ -1,0 +1,22 @@
+{
+    "name": "mushroomcave",
+    "displayName": "MushroomCave",
+    "description": "Vscode theme color, based on AnOldHope of Dustin Sanders",
+    "version": "0.0.1",
+    "publisher": "BelphegorTran",
+    "engines": {
+        "vscode": "^1.12.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "MushroomCave",
+                "uiTheme": "vs-dark",
+                "path": "./themes/MushroomCave-color-theme.json"
+            }
+        ]
+    }
+}
